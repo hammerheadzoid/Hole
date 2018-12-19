@@ -1,0 +1,6 @@
+1	Rocks, Sign Posts, 
+1.5
+2
+2.5
+3	Cars, Fence
+4.5
